@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseurl      = "https://harsh-giri-123.github.io/"
 languageCode = "en-us"
-title        = "my cool website"
+title        = "harsh giri"
 
 # Theme i18n support
 # See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n

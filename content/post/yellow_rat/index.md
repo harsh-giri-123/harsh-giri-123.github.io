@@ -2,9 +2,10 @@
 title: Yellow RAT Lab
 description: 
 date: 2026-02-27 23:46:21+0000
+categories:
+    - Example Category
 tags:
     - cyberdefender
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 ## Scenario
 

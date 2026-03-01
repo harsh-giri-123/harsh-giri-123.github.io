@@ -19,7 +19,7 @@ SortBy              = "default"
 
 [sidebar]
     emoji    = "🍥"
-    subtitle = "security analyst,CTF player"
+    subtitle = "security analyst, CTF player"
     avatar   = "img/avatar.png"
 
 [article]

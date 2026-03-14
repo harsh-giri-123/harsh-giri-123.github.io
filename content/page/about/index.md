@@ -1,6 +1,6 @@
 ---
-title: Personal Introduction
-description: This is My personal introduction.
+title: whoami
+description: 
 date: '2025-12-12'
 aliases:
   - about-us
@@ -14,19 +14,8 @@ menu:
             icon: user
 ---
 
-# General
+in realm of digital whispers i dwell, traverse through labyrinth of web.i play with intrinsic design of ctfs for my futile efforts to let myself be sane.
 
-test
+see you in `cyberia` 
 
-# Interest
-
-
-
-# Programming Language
-
-
-
-# Favourite operating system
-
-Linux
-
+yours quixtalia

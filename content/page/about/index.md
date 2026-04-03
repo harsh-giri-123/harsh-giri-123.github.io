@@ -18,7 +18,6 @@ in realm of digital whispers i dwell, traverse through labyrinth of web.i play w
 
 see you in `cyberia` 
 
-yours quixtalia
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
